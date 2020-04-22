@@ -6,7 +6,7 @@
 	<artifactId>maven</artifactId>
 	<version>1.0.5-SNAPSHOT</version>
 	<name>maven (name)</name>
-	<description>Description of maven project (description) - v4</description>
+	<description>Description of maven project (description) - v5</description>
 	<url>http://tomek.cz/maven</url>
 	
 	<scm>
