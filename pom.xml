@@ -12,7 +12,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/tomkre/maven.git</connection>
 		<developerConnection>scm:git:https://github.com/tomkre/maven.git</developerConnection>
-		<url>https://github.com/tomkre/maven.git</url>
+		<url>https://githubx.com/tomkre/maven.git</url>
     <tag>HEAD</tag>
   </scm>
 	
