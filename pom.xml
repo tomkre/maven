@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cz.tomek.anki</groupId>
 	<artifactId>maven</artifactId>
-	<version>1.0.5-SNAPSHOT</version>
+	<version>1.0.5</version>
 	<name>maven (name)</name>
 	<description>Description of maven project (description) - v5</description>
 	<url>http://tomek.cz/maven</url>
@@ -13,7 +13,7 @@
 		<connection>scm:git:https://github.com/tomkre/maven.git</connection>
 		<developerConnection>scm:git:https://github.com/tomkre/maven.git</developerConnection>
 		<url>https://githubx.com/tomkre/maven.git</url>
-    <tag>HEAD</tag>
+    <tag>maven-1.0.5</tag>
   </scm>
 	
 	<developers>
