@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<project name="${artifactId}" xmlns="http://maven.apache.org/DECORATION/1.8.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/DECORATION/1.8.0 http://maven.apache.org/xsd/decoration-1.8.0.xsd">
+  <bannerLeft>
+<!--     <name>${artifactId}</name> -->
+    <name>TomSite</name>
+<!--     <src>https://maven.apache.org/images/apache-maven-project.png</src> -->
+    <src>cara-400.jpg</src>
+    <href>https://www.fcblesno.cz/</href>
+  </bannerLeft>
+
+  <bannerRight>
+  	<name>right</name>
+    <src>https://maven.apache.org/images/maven-logo-black-on-white.png</src>
+    <href>https://maven.apache.org/</href>
+  </bannerRight>
+
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.7</version>
+  </skin>
+
+  <body>
+    <links>
+      <item name="Maven" href="https://maven.apache.org/"/>
+	  <item name="Obec Blesno" href="https://www.blesno.cz" />
+    </links>
+
+    <menu name="Documentation">
+      <!--<item name="Xdoc Example" href="xdoc.html"/>-->
+	  <item name="FC Blesno" href="https://www.fcblesno.cz" />
+    </menu>
+
+    <menu ref="reports" />
+  </body>
+</project>

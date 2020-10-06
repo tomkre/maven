@@ -1,0 +1,18 @@
+ -----
+ My Custom Site v2
+ -----
+ Tom Krejcar devmaster
+ -----
+ 2020-09-17
+ -----
+
+Maven Site for your project
+
+ Congratulations, Tom! You are a great developer! If you are looking at this page then you have successfully generated a
+ template site employing the simple site archetype and you have run:
+  
++-----+
+
+mvn site
+
++-----+
